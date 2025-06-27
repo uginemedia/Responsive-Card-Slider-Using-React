@@ -120,7 +120,7 @@
   cursor: pointer;
   font-weight: bold;
   font-size: 1.4em;
-  transition: background 0.3s ease;
+  transition: all 0.3s ease;
 }
 
 .nav-buttons button:first-child {
